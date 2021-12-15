@@ -126,27 +126,27 @@ h6 {
 .icon {
     background-color: rgb(255, 255, 255);
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     display: flex;
     margin-right: 20px;
 }
 .insta {
-    margin-top: 18px;
-    margin-left: 22px;
-    font-size: 40px;
+    margin-top: 13px;
+    margin-left: 15px;
+    font-size: 35px;
   
 }
 .github {
-    margin-top: 18px;
-    margin-left: 22px;
-    font-size: 40px;
+    margin-top: 12px;
+    margin-left: 14px;
+    font-size: 35px;
   
 }
 .discord {
-    margin-top: 18px;
-    margin-left: 22px;
-    font-size: 40px;
+    margin-top: 13px;
+    margin-left: 15px;
+    font-size: 35px;
   
 }
 .insta a {
